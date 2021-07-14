@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm briiidgehong</text>
+    <text x="15" y="27">Hi, I'm uiandwe</text>
   </g>
 
   <!-- typing 2 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm very interested in backend programming</text>    
+    <text x="15" y="27">I'm very interested in system design and DB optimization.</text>    
     <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
