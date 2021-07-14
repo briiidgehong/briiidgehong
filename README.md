@@ -1,1 +1,1 @@
-![](https://github.com/briiidgehong/briiidgehong/blob/main/README.md)
+![](https://github.com/briiidgehong/briiidgehong/blob/main/chat.svg)
