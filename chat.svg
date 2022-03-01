@@ -1,4 +1,4 @@
-<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="250" viewBox="0 0 550 250" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -300,7 +300,7 @@
   </g>
 
   <!-- typing 3 -->
-  <g transform="translate(10, 120)" class="typing-3">
+  <g transform="translate(10, 96)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -318,7 +318,7 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
+  <g transform="translate(10, 96)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm interested in building server infra and data ETL</text>    
     <text x="15" y="50">My project and study can be checked here.</text>
